@@ -2,14 +2,12 @@
 
 ## **_Descrição do projeto_**
 
-Projeto incrível do Ignite React Native, onde pude praticar navegation, styled-components, localStorage entre outras boas ferramentas.
+Projeto proposto é um app para criar turmas e dentro delas podemos adicionar players para as turmas e dividi-los em "TIME A" e "TIME B".
+Para concluir o projeto foi necessário utilizar com frequência o hook **_useState_** para manipular os dados e **_localStorage_** para memoriza-los.
+O tema usado por toda a aplicação está disponível na pasta Theme. E também esmo uma mensagem de erro personalizada, para melhora a experiência do usuário.
 
-Práticas como salvar, pegar e redefinir dados no localStorage, uso de hooks e bastante estilização com styled-componets. Além de implementar melhores para a experiência do usuário, como: tratamento de erros, acionamento no botão do teclado do aparelho, tela de loading para informar ao usuário que os dados estão sendo carregados (caso necessário).
+>Por fim adicionei, no GroupCard, o número de participantes daquela turma. Os exibindo logo na nossa tela incial (screen/Groups).
 
-Todo o código segue um projeto definido no Figma. Para isso temos um em theme para definar as cores, tamanho de fonte e familia da fonte.
-
-Além de tudo que foi proposto nas aulas, resolvi adcionar um contador de players cadastrados em sua respectiva turma.
-Este valor está disponível no próprio card da turma.
 <br>
 
 #
